@@ -6,4 +6,5 @@
 
 ***
 
-libraries: shapely, folium, geopandas, ipywidgets
+**required libraries:**  
+shapely, folium, geopandas, ipywidgets
